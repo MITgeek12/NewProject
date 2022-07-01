@@ -1,0 +1,83 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+.main{
+  background-color: #4B6587;
+}
+
+.top {
+  padding: 5%;
+  text-align: center;
+}
+
+.my-pic {
+  object-fit: cover;
+  width:230px;
+  height:230px;
+  border-radius: 50%;
+}
+
+.my-name{
+  margin-top: 3%;
+  color: #FF7777;
+  font-size: 5rem;
+  font-family: 'Splash', sans-serif;
+}
+
+.top-header {
+  color: #F7F6F2;
+  font-size: 3.5rem;
+}
+
+.about-me {
+  margin: 3% auto;
+  padding: 2%;
+  background-color: #fff;
+  width:65%;
+  height:40%;
+  border: .5rem solid #000;
+  border-radius: 25px;
+}
+
+.game-img {
+  width: 70%;
+  margin: -20% auto -2%;
+  display: block;
+}
+
+.itchio {
+  width: 20%;
+}
+
+.game-page {
+  background-color: #4B6587;
+}
+
+.back-btn {
+  padding: 3%;
+  width: 10%;
+}
+
+.instructions {
+  text-align: center;
+  padding: 3%;
+  background-color: #fff;
+  border: .1rem solid #000;
+  border-radius: 25px;
+  float: right;
+  width: 50%;
+}
+table {
+  margin: auto;
+}
+
+tbody {
+  text-align: left;
+  padding: 2%;
+}
